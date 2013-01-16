@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'ImpactLabelRegular';
+    src: url('../_fonts/Impact_Label-webfont.eot');
+    src: url('../_fonts/Impact_Label-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../_fonts/Impact_Label-webfont.woff') format('woff'),
+         url('../_fonts/Impact_Label-webfont.ttf') format('truetype'),
+         url('../_fonts/Impact_Label-webfont.svg#ImpactLabelRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+section, article, h1, h2, p {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-image: url("../_images/tm7.jpg");
+}
+
+#container{
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: purple;
+}
+
+#buttonHolder
+{
+	display: block;
+	margin: 0 auto;	
+}
+
+h1{
+    vertical-align:middle;
+	color:blue;
+	font:180% ImpactLabelRegular, Arial, Helvetica, sans-serif;
+	background-color: rgb(255,255,255);
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11px;
+}
+
+.button
+{
+	vertical-align: middle;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+	border-radius: 10px;
+	cursor: hand;
+	margin: 0 auto;
+}
+
+#innerButton
+{
+	margin:0 auto;
+}
+
+
+.button:hover
+{
+	background-color: green;
+}
+

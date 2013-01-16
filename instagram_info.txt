@@ -1,0 +1,6 @@
+
+CLIENT INFO
+CLIENT ID	832d9df94b734ac1a66d3dc6756de06d
+CLIENT SECRET	028d84876d6b4b89ba32df2019ea61c4
+WEBSITE URL	https://andrewtdunn.com
+REDIRECT URI	https://andrewtdunn.com/3blog/

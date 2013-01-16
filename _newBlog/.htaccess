@@ -1,0 +1,4 @@
+AuthName "Blog - in Development"
+AuthType "Basic"
+AuthUserFile /Applications/MAMP/htdocs/andrewtdunn/_newBlog/.htpasswd
+require valid-user

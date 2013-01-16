@@ -1,0 +1,26 @@
+2012-04-28 13:48:06 | Logs Cleared | by User ID 1
+2012-04-29 05:41:35 | Login | drstrange logged in.
+2012-04-29 17:33:25 | Login | drstrange logged in.
+2012-04-30 19:51:43 | Login | drstrange logged in.
+2012-05-01 00:13:02 | Login | drstrange logged in.
+2012-06-03 08:19:22 | Login | andrewtdunn logged in.
+2012-06-03 13:49:00 | Login | andrewtdunn logged in.
+2012-06-07 01:09:08 | Login | andrewtdunn logged in.
+2012-06-08 23:34:26 | Login | andrewtdunn logged in.
+2012-06-11 02:54:36 | Login | andrewtdunn logged in.
+2012-06-18 01:49:21 | Login | andrewtdunn logged in.
+2012-06-21 03:12:27 | Login | andrewtdunn logged in.
+2012-06-21 03:13:04 | Login | andrewtdunn logged in.
+2012-06-27 00:35:08 | Login | andrewtdunn logged in.
+1|2012-07-17 01:20:53|andrew|posted a new project|11
+2|2012-07-17 01:22:26|andrew|save failed|11
+1|2012-07-17 01:24:13|andrew|edited a project|13
+1|2012-07-18 01:11:13|andrew|edited a project|16
+2|2012-07-24 05:00:03|Login|andrew|
+1|2012-07-24 05:00:16|andrew|posted|22
+1|2012-07-24 05:19:07|andrew|posted|23
+1|2012-07-24 05:40:43|andrew|posted|24
+1|2012-07-24 05:53:36|andrew|posted|25
+1|2012-07-24 05:54:43|andrew|posted|26
+1|2012-07-24 06:06:13|andrew|posted|27
+1|2012-07-30 20:53:48|andrew|posted|1

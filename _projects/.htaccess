@@ -1,0 +1,4 @@
+AuthName "Projects - in Development"
+AuthType "Basic"
+AuthUserFile /home/content/a/n/d/andrewtdunn28/html/_projects/.htpasswd
+require valid-user

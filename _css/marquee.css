@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* CSS Document                  */
+/* Written by Chris Converse     */
+/* for Lynda.com                 */
+
+
+.marquee_panels { display: none; }
+.marquee_container { position: relative; width: 700px; height: 350px; overflow: hidden; margin: 0px 0px 30px 0px; padding: 0px;  border:#666 solid 3px;}
+.marquee_photos { position: absolute; top: 0px; left: 0px; display: none;}
+.marquee_caption {
+	width: 700px;
+	margin: 0px;
+	padding: 15px 0px 10px 0px;
+	color: #fff;
+	position: absolute;
+	top: 340px;
+	left: 0px;
+	background: url(../_images/template/marquee_caption.png) 0px 0px;
+}
+.marquee_caption_content { width: 370px; padding: 0px 0px 0px 25px; }
+.marquee_caption h2 { margin: 0px 0px 10px 0px; color: #fff; font-size: 1.25em; font-weight: normal; text-transform: uppercase; }
+.marquee_caption p { margin: 0px 0px 12px 0px; color: #fff; }
+.marquee_caption a { color: #ffc600; }
+.marquee_caption a:hover { color: #fff; }
+.marquee_flag { float: left; margin-right: 10px; }
+
+.marquee_nav { position: absolute; width: 240px; top: 310px; right: 20px; text-align: right; }
+.marquee_nav a {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	margin-left: 15px;
+	background: url(../_images/template/nav_buttons.png) no-repeat 0px 0px;
+	cursor: pointer;
+}
+.marquee_nav a:hover { background-position: -25px 0px; }
+.marquee_nav a.selected { background-position: -50px 0px; }

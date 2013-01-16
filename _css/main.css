@@ -1,0 +1,104 @@
+aside, article, section, header,footer,nav{
+		display:block;
+}
+			div, section, article, h1,h2,h3,p{
+				margin:0;
+				padding:0;
+			}
+			html,body{
+				margin:0;
+				padding:0;
+			}
+			html{
+				background:rgb(123,121,143);
+				background-image:url('../_siteImages/whitegradient.png'),url('../_siteImages/lemonStrip2.png');
+    background-attachment: fixed;
+    background-repeat:repeat-x;
+    			background-color: white;
+    
+			}
+			body{
+				background:#fff;
+				font: 100% Georgia, "Times New Roman", Times, serif;
+				width: 960px;
+				margin: 2em auto 2em;
+				
+			}
+			/* layout */
+			header{
+				background-color: rgb(251,252,241);
+				margin-bottom:16px; /* or 1em */
+				height: 96px;
+				padding: 32px 0 0 32px; 
+				background-image: url('../_siteImages/928headerlogo.png');
+			}
+			.col1{
+				float:left;
+				padding-left: 32px;
+				width: 512px;
+			}
+			.col2{
+				float: right;
+				width: 352px;
+				padding-right: 32px;
+				font-size: 90%;
+				line-height: 1.6;
+			}
+			
+			footer{
+				background-color: rgb(100,98,102);
+				height: 80px;
+				clear: both;
+			}
+			
+			img{
+				float:left;
+				margin: 0 1em 0 0;
+			}
+			.largeImg{
+				display:block;
+				float:none;
+				margin: 1em auto;
+			}
+			
+			.news{
+				width: 208px;
+				padding: 16px;
+				font-size: 90%;
+				line-height: 1.8;
+				background: rgb(237,226,197);
+				margin-right: 32px;
+				float:left;
+			}
+			
+			
+			.news + .news {
+				margin-right:0;
+			}
+			
+			
+			/* typography */
+			
+			h1{
+				font-family: Arial, Helvetica, sans-serif;
+				font-weight: normal;
+				font-size: 2em;
+				color:white;
+				letter-spacing: .1em;
+			}
+			p{
+				font-size: 1em;
+				line-height: 1.5;
+				margin-bottom: 1em;	
+			}
+			h2 {
+				font-size: 1.8em;
+				margin-bottom: 0.5em;
+				font-weight: normal;
+				font-variant: small-caps;
+			}
+			h3{
+				font-size: 1.2em;
+				margin-bottom: 0.7em;
+				clear:both
+			}
