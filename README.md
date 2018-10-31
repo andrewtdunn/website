@@ -11,7 +11,13 @@
 
 - some of the older blog posts display animations
 
+## blog admin
+
 ![alt text](https://github.com/andrewtdunn/website/blob/develop/port2.png "admin screenshot")
+
+## blog
+
+![alt text](https://github.com/andrewtdunn/website/blob/develop/port3.png "admin screenshot")
 
 
 
